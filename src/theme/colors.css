@@ -1,0 +1,8 @@
+:root, [data-theme='default'] {
+  --color-light: #fff;
+  --color-dark: #000;
+  --color-primary: #d74894;
+  --color-secondary: red;
+  --color-disabled: #cccccc;
+  --color-disabled-dark: #999999;
+}
